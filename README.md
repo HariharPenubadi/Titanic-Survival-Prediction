@@ -1,8 +1,8 @@
 # Titanic-Survival-Prediction
 
 
-Accuracy: 82.68%
-Here is the classification report for the model:
+- **Accuracy**: 82.68%
+#Here is the classification report for the model:
 
 |       Class      | Precision | Recall | F1-Score | Support |
 |------------------|-----------|--------|----------|---------|
